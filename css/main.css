@@ -1,4 +1,53 @@
 /* Place CSS styles here */
-.header {
-    background-color: blue; 
+header {
+    background-color: black; 
+    padding: 2px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.main-heading {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.information {
+    padding-left: 70px;
+    padding-right: 800px;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: "Source Code Pro", serif;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Montserrat", serif;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: "Montserrat", serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+body {
+    font-family: "Montserrat", serif;
+    font-size: 16px;
+}
+
+.recipe {
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.images {
+    padding-left: 70px;
 }
